@@ -1,2 +1,2 @@
 # web-scraping-ve-mongodb
-Bir web scrapping projesi
+Aratılmak istenen kelimeler ile ilgili makaleleri Web Scraping yardımı ile alır, MongoDB üzerine birçok parametre ile kaydeder ve pdflerini indirir. Birincil olarak türkçe makaleler için tasarlanmıştır. İngilizce makaleler üzerinde test ettiğinizde DergiPark'ın makale sayfalarının yapılarındaki düzensizlik sebebiyle bazı sorunlarla karşılaşabilmeniz mümkün. Web Scraping: Beautiful Soup / Database: MongoDB / Dil: Phyton.
